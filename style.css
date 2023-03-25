@@ -52,14 +52,14 @@ text-align: center;
 form .btn {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
-    border-radius: 0px;
-    font-family: Arial;
+    border-radius: 10px;
     color: #fff;
     font-size: 1rempx;
     background: #37af65;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-    width: 100%;
+    width: 80%;
+    
   }
   
   
