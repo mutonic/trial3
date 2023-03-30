@@ -28,9 +28,6 @@ margin-bottom: 1.875rem;
 text-align: center;
 }
 
-#title{}
-
-#description{}
 
 #survey-form{
     
@@ -54,15 +51,6 @@ label{
 p{
     font-size: 20px;
 }
-#name-label{}
-
-#email-label{}
-
-#number-label{}
-
-#dropdown{}
-
-#checkbox{}
 
 form .btn {
     -webkit-border-radius: 0;
